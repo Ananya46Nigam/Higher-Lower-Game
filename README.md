@@ -1,5 +1,8 @@
 # Higher-Lower-Game
 It's easy to play and yet it is, very weirdly .... a highly addicting game!!! The user has to guess which has a higher number of followers and it displays the scores. The objective is to get the most right in a row. 
+The game has been played over 500 million times with major YouTube stars creating videos of themselves playing the game.
+
+
 
 
 
